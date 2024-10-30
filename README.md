@@ -21,3 +21,5 @@ Subletify is a full-featured web application created to streamline the sublettin
 ### Project Goals
 
 Subletify aims to create a centralized, student-focused subletting platform that addresses the unique housing challenges faced by UBC students. By offering a reliable, engaging, and supportive subletting community, Subletify seeks to bridge the gap between student housing demand and availability.
+
+### It can be accessed at https://subletify.site
